@@ -2,8 +2,8 @@
 
 Um resumo traduzido para o português do site SimpliLearn. 
 
-###
-Apresentação:
+
+# Apresentação:
 _____________________________________________________________________________________________
   Olá mundão, 
   
@@ -95,5 +95,3 @@ Exemplo:
       x = x * 2 modificando o valor da função dentro da variavel global.
     UnboundLocalError: variável local 'x' referenciada antes da atribuição
     PS C:\Users\VRAME2>
-    
-    
