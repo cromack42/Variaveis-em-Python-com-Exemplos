@@ -1,4 +1,4 @@
-# Variaveis-Globais-em-Python-com-exemplos
+***Variaveis-Globais-em-Python-com-exemplos***
 
 Um resumo traduzido para o português do site SimpliLearn. 
 
@@ -16,7 +16,7 @@ Me chamo Marcelo e sou desenvolvedor Python.
 ______________________________________________________________________________________________
   
   
-Qual é a variável global em python?
+***Qual é a variável global em python?***
   
   No mundo da programação, uma variável global em Python significa ter um escopo ao longo do programa, 
   ou seja, um valor variável global é acessível em todo o programa, a menos que seja sombreado.  
@@ -29,7 +29,7 @@ Qual é a variável global em python?
     
 ______________________________________________________________________________________________
 
-Como criar uma variação global em Python?
+***Como criar uma variação global em Python?***
 
   Para criar uma variação em Python, você pprecisa declarar a variável fora da função ou em um âmbito global
   
@@ -48,7 +48,7 @@ Saída:
     PS C:\Users\VRAME2
 _____________________________________________________________________________________________
 
-Como acessar a variante global dentro e fora da função?
+***Como acessar a variante global dentro e fora da função?***
 
 Exemplo: 
 
@@ -73,7 +73,7 @@ Exemplo:
  Então, se você acessar ambos os valores dentro e fora da função, isso é bom, mas o que acontece 
  se você tentar modificar o valor da variável de escopo global dentro de uma função?
  
- Veja o exemplo mencionado para entender melhor.
+ ***Veja o exemplo mencionado para entender melhor.***
  
  Exemplo:
  
